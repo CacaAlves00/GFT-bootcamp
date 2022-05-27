@@ -1,0 +1,22 @@
+package models;
+
+import java.util.Calendar;
+import java.util.Formatter;
+
+public class Cumprimento {
+	
+	Formatter formatter;
+	
+	Calendar calendario;	
+	
+	public Cumprimento() {
+		formatter = new Formatter();
+		calendario = null;
+	}
+	
+	public cumprimentar() {
+		calendario = Calendar.getInstance();
+		format.format("%tl:%tM", calendario);
+		
+	}
+}

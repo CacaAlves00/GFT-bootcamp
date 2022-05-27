@@ -1,0 +1,13 @@
+package models;
+
+public class Emprestimo {
+
+	public static float calcularValorFinal(float valor, int parcelas) {
+		float taxa;
+		
+		if (parcelas)
+		
+		return (valor + (valor * taxa));
+	}
+	
+}

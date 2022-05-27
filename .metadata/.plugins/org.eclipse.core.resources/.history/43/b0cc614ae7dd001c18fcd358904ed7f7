@@ -1,0 +1,7 @@
+package models;
+
+public class Emprestimo {
+
+	public static taxa 5.0;
+	
+}

@@ -1,0 +1,16 @@
+package application;
+
+import models.Calculadora;
+import models.Cumprimento;
+
+public class Program {
+	
+	public static void main(String[] args) {
+		System.out.println(Calculadora.dividir(5, 2));
+		
+		Cumprimento.cumprimentar();
+		
+		System.out.println();
+	}
+	
+}

@@ -1,0 +1,29 @@
+package models;
+
+import java.util.Calendar;
+import java.util.Formatter;
+
+public class Cumprimento {
+	
+	Formatter formatter;
+	
+	Calendar calendario;	
+	
+	public Cumprimento() {
+		formatter = new Formatter();
+		calendario = null;
+	}
+	
+	public void cumprimentar() {
+		calendario = Calendar.getInstance();
+		formatter.format("%tH", calendario);
+		
+		int hora = Integer.parseInt(formatter.toString());
+		
+		if (hora > 6 && hora < 12) {
+			System.out.println();
+			
+		}
+		
+	}
+}
