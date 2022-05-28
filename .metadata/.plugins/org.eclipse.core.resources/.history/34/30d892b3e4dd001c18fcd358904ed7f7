@@ -1,9 +1,0 @@
-package models;
-
-public class Calculadora {
-
-	private void somar() {
-		// TODO Auto-generated method stub
-
-	}
-}

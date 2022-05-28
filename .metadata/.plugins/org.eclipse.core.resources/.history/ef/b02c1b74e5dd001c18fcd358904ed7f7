@@ -1,9 +1,0 @@
-package models;
-
-public class Cumprimento {
-	
-	public Cumprimento() {
-		
-		
-	}
-}

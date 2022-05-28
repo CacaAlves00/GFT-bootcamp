@@ -1,9 +1,0 @@
-package models;
-
-public class Emprestimo {
-
-	public static float taxa = 5.0f;
-	
-	public static int calcularValorFinal()
-	
-}
