@@ -1,6 +1,5 @@
-# Anotações e Exercícios
+# Anotações & Exercícios & Projetos
 
-Anotações sobre:
-* Sobre o conteúdo
-* Sobre os desafios de código
-* Sobre os projetos
+* Anotações sobre o conteúdo.
+* Sobre os desafios de código.
+* Sobre os projetos.
